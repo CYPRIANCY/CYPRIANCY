@@ -1,12 +1,12 @@
 # Hi, I'm Akpen Sesugh Cyprian 👋
 
-### Junior Backend Software Engineer
+### Junior Backend Software Engineer / Full-Stack Developer | Node.js | TypeScript | REST APIs | AI Business Automation
 
-I'm a Junior Backend Software Engineer focused on building reliable, maintainable, and well-structured backend applications and REST APIs.
+I'm a Junior Backend Software Engineer focused on building reliable, maintainable, AI-powered automation. and well-structured backend applications and REST APIs.
 
 My primary backend stack is **Node.js, TypeScript, and Express.js**, with experience working with databases, API architecture, middleware, validation, authentication, error handling, and backend debugging.
 
-I'm currently strengthening my software engineering skills through project-based development and building **BusinessFlow AI**, an AI-native business management and intelligence platform.
+I'm currently strengthening my software engineering skills through project-based development and building **BusinessFlow AI**, an AI-native business management and intelligence platform, that focused on helping businesses manage workflows, automate repetitive tasks, and use AI to improve their operations.
 
 ---
 
@@ -41,6 +41,21 @@ I'm currently strengthening my software engineering skills through project-based
 * CSS
 * Go — Basic Fundamentals
 
+## AI & Automation
+
+  Python
+  AI/LLM APIs
+  AI Business Automation
+
+## Tools & DevOps
+
+  Git
+  GitHub
+  Postman
+  Docker
+  Linux
+  Cloud Deployment
+  
 ---
 
 ## 🚀 Featured Projects
@@ -89,13 +104,17 @@ A booking application demonstrating API design, business logic, and data managem
 
 * Advanced Backend Engineering
 * TypeScript
-* Python 
+* Practical Python and AI application development
 * Go
 * AI-Native Software Engineering
 * Backend Architecture
 * API Design
 * Database Design
 * System Design
+* Redis
+* Automated testing
+* Docker
+* Cloud deployment
 
 ---
 
@@ -107,6 +126,11 @@ I'm currently seeking opportunities as a:
 * Junior Software Engineer
 * Backend Developer
 * Software Engineering Intern
+* Node.js Developer
+* TypeScript Developer
+* Full-Stack Developer
+* API Developer
+* AI Application Developer
 
 I'm particularly interested in opportunities where I can contribute to real-world backend systems while continuing to grow as a software engineer.
 
@@ -118,5 +142,7 @@ I'm particularly interested in opportunities where I can contribute to real-worl
 * **GitHub:** [CYPRIANCY](https://github.com/CYPRIANCY)
 
 ---
+
+⭐ Check out my repositories to see what I'm building and learning.
 
 ⭐ Thanks for visiting my profile!
