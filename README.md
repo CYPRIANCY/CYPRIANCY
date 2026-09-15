@@ -43,18 +43,18 @@ I'm currently strengthening my software engineering skills through project-based
 
 ## AI & Automation
 
-  Python
-  AI/LLM APIs
-  AI Business Automation
+* Python
+* AI/LLM APIs
+* AI Business Automation
 
 ## Tools & DevOps
 
-  Git
-  GitHub
-  Postman
-  Docker
-  Linux
-  Cloud Deployment
+* Git
+* GitHub
+* Postman
+* Docker
+* Linux
+* Cloud Deployment
   
 ---
 
